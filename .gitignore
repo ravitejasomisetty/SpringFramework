@@ -50,3 +50,4 @@ Gradle_NoDependencies/.gradle
 Gradle_NoDependencies/build
 Gradle_WithDependencies/.gradle
 Gradle_WithDependencies/build
+Maven_NoDependencies/target
