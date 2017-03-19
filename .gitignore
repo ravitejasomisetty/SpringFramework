@@ -52,3 +52,8 @@ Gradle_WithDependencies/.gradle
 Gradle_WithDependencies/build
 Maven_NoDependencies/target
 Maven_WithDependencies/target
+*.classpath
+*.project
+RESTful_Web_Service/.settings/org.eclipse.jdt.core.prefs
+RESTful_Web_Service/bin
+RESTful_Web_Service/build
