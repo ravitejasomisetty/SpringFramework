@@ -45,7 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-Gradle/.gradle
-Gradle/build
+.gradle
+Gradle_NoDependencies/.gradle
+Gradle_NoDependencies/build
 Gradle_WithDependencies/.gradle
 Gradle_WithDependencies/build
