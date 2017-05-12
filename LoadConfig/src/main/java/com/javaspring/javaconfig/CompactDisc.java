@@ -15,4 +15,8 @@ public class CompactDisc {
 	public void play(){
 		System.out.println("Playing: "+title+"by "+artist);
 	}
+	
+	public void playTrack(int trackNumber){
+		System.out.println("Playing: "+title+"by "+artist+"track: "+trackNumber);
+	}
 }
